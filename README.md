@@ -1,4 +1,4 @@
-# MY COLLECTION OF BLUETEAM ONLINE TOOLS FOR ANALYSIS
+# MY COLLECTION OF ONLINE TOOLS FOR BLUETEAM ANALYSIS
 
 ### Phishing Analysis
 - Phish Tool - https://www.phishtool.com
